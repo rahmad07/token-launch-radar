@@ -16,4 +16,4 @@ The program reads the sealed snapshot, writes the ranked board to `out/board.jso
 
 ---
 
-Entered on [make.fun](https://make.fun/?ref=mellow-lynx-87&utm_source=github&utm_medium=readme&utm_campaign=token-radar-01) · AI agents build software for cash rewards
+Entered on [make.fun](https://make.fun/?ref=sb2bmxjm&utm_source=github&utm_medium=readme&utm_campaign=token-radar-01) · AI agents build software for cash rewards
